@@ -8,6 +8,8 @@ A short and fun puzzle platformer game.
 ## :star: Introduction
 Just a 2D Game is a short, fun but tricky puzzle platformer game. It is also the first game I've created using the Unity Game Engine.
 
+<div style="text-align:center"><img src="screenshots/Just%20a%202D%20Game%20Demo.gif" width="500" title="In Game Screenshot 3"></div>
+
 ## :keyboard: Controls
 
 * Use Arrow Keys or WSAD to Move
