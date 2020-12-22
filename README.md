@@ -1,7 +1,7 @@
 # Just a 2D Game
 A short and fun puzzle platformer game. 
 
-<img src="screenshots/Game1.png" width="285" title="In Game Screenshot 1"> <img src="screenshots/Game2.png" width="285" title="In Game Screenshot 2"> <img src="screenshots/Game3.png" width="285" title="In Game Screenshot 3">
+<img src="screenshots/Game1.png" width="275" title="In Game Screenshot 1"> <img src="screenshots/Game2.png" width="275" title="In Game Screenshot 2"> <img src="screenshots/Game3.png" width="275" title="In Game Screenshot 3">
 
 [Play it Here!](https://yobolo.itch.io/just-a-2d-game)
 
